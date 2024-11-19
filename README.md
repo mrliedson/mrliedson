@@ -1,7 +1,7 @@
 ## Oi, eu sou o Alisson Brendo.👋
 
 - 🔭 Atualmente trabalho com entregas na empresa Ifood.
-- 🌱 Eu sou estudante de Desenvolvimento de Sistemas (Algorito, desenvolvimento Web, Banco de dados, etc..) na Etec.
+- 🌱 Eu sou estudante de Desenvolvimento de Sistemas (Algoritmo, desenvolvimento Web, Banco de dados, etc..) na Etec.
 - 📫 Podem me contata pelo meu email: alissonbrendo99@gmail.com.
 - ⚡ Um fato curioso, as pessoas dizem que sou bom em liderar, mas eu nunca pensei assim.
 
