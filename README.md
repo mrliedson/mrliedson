@@ -4,18 +4,18 @@
 
   Olá, eu me chamo Alisson Brendo, tenho 26 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistemas na Etec. Sou apaixonado por tecnologia e me empenho cada dia mais para aprender o máximo possível sobre essa área.
   <p align="left">
-    <a href="https://github.com/AndradeDeve?tab=repositories&sort=stargazers">
+    <a href="https://github.com/mrliedson?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/AndradeDeve?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/AndradeDeve?tab=followers">
+    <a href="https://github.com/mrliedson?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AndradeDeve?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/mrliedson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/guilherme-andrade-38684731b/">
@@ -115,7 +115,7 @@
     height="200"
     width="400"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=AndradeDeve&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&custom_title=Estatísticas"
+    src="https://github-readme-stats.vercel.app/api?username=mrliedson&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&custom_title=Estatísticas"
     />
     <img
     aling="left"
@@ -123,6 +123,6 @@
     height="200"
     width="400"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeDeve&theme=dark&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrliedson&theme=dark&custom_title=Tecnologias&langs_count=9"
     />
 </p>
