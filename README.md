@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-  Olá, eu me chamo Guilherme Andrade, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando o 3º ano do Ensino Médio com o curso de Desenvolvimento de Sistemas na Etec. Sou apaixonado por tecnologia e me empenho cada dia mais para aprender o máximo possível sobre essa área.
+  Olá, eu me chamo Alisson Brendo, tenho 26 anos e sou de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistemas na Etec. Sou apaixonado por tecnologia e me empenho cada dia mais para aprender o máximo possível sobre essa área.
   <p align="left">
     <a href="https://github.com/AndradeDeve?tab=repositories&sort=stargazers">
         <img 
