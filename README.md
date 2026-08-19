@@ -126,3 +126,12 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrliedson&theme=dark&custom_title=Tecnologias&langs_count=9"
     />
 </p>
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/mrliedson?v=1787147795569"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
