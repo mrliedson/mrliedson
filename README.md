@@ -130,7 +130,7 @@
 
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/mrliedson?v=1787147795569"
+    src="https://gitascii.com/api/mrliedson?v=1787314015568"
     alt="GitAscii Widget"
     width="100%"
   />
