@@ -31804,147 +31804,34 @@
       "zIndex": 8
     },
     {
-      "instanceId": "widget_1787313986830",
-      "widgetId": "pokemon-card",
-      "name": "Pokemon-card Widget",
+      "instanceId": "widget_1787569248005",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
       "position": {
-        "x": 536,
-        "y": 1220
+        "x": 528,
+        "y": 1208
       },
       "size": {
-        "width": 240,
-        "height": 256
+        "width": 216,
+        "height": 280
       },
       "config": {
-        "searchQuery": "Gengar",
-        "searchCards": [
-          {
-            "id": "base3-5",
-            "localId": "5",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/base/base3/5"
-          },
-          {
-            "id": "ex12-5",
-            "localId": "5",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ex/ex12/5"
-          },
-          {
-            "id": "neo4-6",
-            "localId": "6",
-            "name": "Dark Gengar",
-            "image": "https://assets.tcgdex.net/en/neo/neo4/6"
-          },
-          {
-            "id": "ecard3-10",
-            "localId": "10",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard3/10"
-          },
-          {
-            "id": "lc-11",
-            "localId": "11",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/lc/lc/11"
-          },
-          {
-            "id": "ecard1-13",
-            "localId": "13",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/13"
-          },
-          {
-            "id": "gym1-14",
-            "localId": "14",
-            "name": "Sabrina's Gengar",
-            "image": "https://assets.tcgdex.net/en/gym/gym1/14"
-          },
-          {
-            "id": "pl4-16",
-            "localId": "16",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/pl/pl4/16"
-          },
-          {
-            "id": "pl4-17",
-            "localId": "17",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/pl/pl4/17"
-          },
-          {
-            "id": "dp7-18",
-            "localId": "18",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/dp/dp7/18"
-          },
-          {
-            "id": "base3-20",
-            "localId": "20",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/base/base3/20"
-          },
-          {
-            "id": "dp1-27",
-            "localId": "27",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/dp/dp1/27"
-          },
-          {
-            "id": "gym2-29",
-            "localId": "29",
-            "name": "Sabrina's Gengar",
-            "image": "https://assets.tcgdex.net/en/gym/gym2/29"
-          },
-          {
-            "id": "A2a-033",
-            "localId": "033",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/tcgp/A2a/033"
-          },
-          {
-            "id": "xy4-34",
-            "localId": "34",
-            "name": "Gengar EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy4/34"
-          },
-          {
-            "id": "xy4-35",
-            "localId": "35",
-            "name": "M Gengar EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy4/35"
-          },
-          {
-            "id": "g1-35",
-            "localId": "35",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/xy/g1/35"
-          },
-          {
-            "id": "sm4-38",
-            "localId": "38",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/sm/sm4/38"
-          },
-          {
-            "id": "pl2-40",
-            "localId": "40",
-            "name": "Gengar GL",
-            "image": "https://assets.tcgdex.net/en/pl/pl2/40"
-          },
-          {
-            "id": "ecard1-48",
-            "localId": "48",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/48"
-          }
-        ],
-        "imageUrl": "https://assets.tcgdex.net/en/lc/lc/11/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/lc/lc/11/low.webp"
+        "transparentBackground": true,
+        "hideBorder": false,
+        "hideDecorations": false,
+        "showTitle": false,
+        "enableHolo": false,
+        "country": "BR",
+        "animationType": "none",
+        "animationPreviewKey": 2,
+        "accentColor": "transparent",
+        "backgroundColor": "transparent",
+        "textColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 9
+      "zIndex": 10
     }
   ],
   "globalStyles": {
