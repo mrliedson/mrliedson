@@ -45657,9 +45657,10 @@
         "secondaryColor": "#8b949e",
         "borderColor": "#30363d",
         "customLocation": "Embu",
-        "customRoles": "Junior develper",
+        "customRoles": "Junior developer",
         "showTitle": false,
-        "hideBorder": false
+        "hideBorder": false,
+        "customName": "I'm Know"
       },
       "locked": false,
       "visible": true,
@@ -45680,7 +45681,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794967283961_4dw78",
-    "updatedAt": "2026-11-18T02:01:26.214Z"
+    "revision": "rev_1794967790672_jmg1c",
+    "updatedAt": "2026-11-18T02:09:53.252Z"
   }
 }
