@@ -45660,7 +45660,8 @@
         "customRoles": "Junior developer",
         "showTitle": false,
         "hideBorder": false,
-        "customName": "I'm Know"
+        "customName": "First, solve the problem. Then, write the code.",
+        "animated": true
       },
       "locked": false,
       "visible": true,
@@ -45681,7 +45682,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794967790672_jmg1c",
-    "updatedAt": "2026-11-18T02:09:53.252Z"
+    "revision": "rev_1794967921233_momn6",
+    "updatedAt": "2026-11-18T02:12:03.857Z"
   }
 }
