@@ -65,35 +65,6 @@
     </g>
   
 
-    <g transform="translate(8, 1114)" id="widget-widget_1794966093727_2">
-
-      
-      
-      <rect class="" x="0" y="0" width="368" height="256" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
-      
-      
-    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ FEATURED REPOSITORIES ]</text>
-    
-      <g transform="translate(24, 50)">
-        <rect x="0" y="0" width="320" height="68" fill="#1e1e1e" rx="4" />
-        <rect x="0" y="0" width="3" height="68" fill="#c5ff4a" rx="1" />
-        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">mrliedson</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">★ 0  ⑂ 0  Updated Sep 9, 2026</text>
-      </g>
-      <g transform="translate(24, 126)">
-        <rect x="0" y="0" width="320" height="68" fill="#1e1e1e" rx="4" />
-        <rect x="0" y="0" width="3" height="68" fill="#c5ff4a" rx="1" />
-        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">bd3-atv-rede-social-firestore-Alis…</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">atividade Cristiano</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">CSS  ★ 0  ⑂ 0  Updated Nov 20, 2025</text>
-      </g>
-      <g transform="translate(24, 202)">
-        <rect x="0" y="0" width="320" height="68" fill="#1e1e1e" rx="4" />
-        <rect x="0" y="0" width="3" height="68" fill="#c5ff4a" rx="1" />
-        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">bd3-atv-rede-social-Alisson-Brendo</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">CSS  ★ 0  ⑂ 0  Updated Oct 16, 2025</text>
-      </g>
-  
-  
-    </g>
-  
-
     <g transform="translate(32, 1652)" id="widget-widget_1794966093727_4">
 
       
@@ -109,72 +80,247 @@
     </g>
   
 
-    <g transform="translate(376, 1274)" id="widget-widget_1794966093727_5">
+    <g transform="translate(352, 1232)" id="widget-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864">
 
       
       
-      <rect class="" x="0" y="0" width="392" height="120" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
       
       
-    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB METRICS ]</text>
+      <svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="widget_639ad382-d7a4-43f5-ab59-24ed0fee6864"
+  width="440"
+  height="440"
+  viewBox="0 0 400 177"
+  preserveAspectRatio="xMidYMid meet"
+  fill="none"
+>
+  <style>
     
-        <g transform="translate(24, 48)">
-          <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#c5ff4a">0</text>
-          <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">STARS</text>
-        </g>
-        <g transform="translate(138.66666666666669, 48)">
-          <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#c5ff4a">6</text>
-          <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWERS</text>
-        </g>
-        <g transform="translate(253.33333333333334, 48)">
-          <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#c5ff4a">10</text>
-          <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWING</text>
-        </g>
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 text {
+      font-family: 'JetBrains Mono', 'Courier New', Consolas, monospace;
+      font-size: 12px;
+      fill: #e5e5e5;
+      white-space: pre;
+    }
   
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-0 { animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-0 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-0 { 0%, 6.29% { opacity: 1; } 6.3%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-1 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-1 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-1 { 0%, 6.29% { opacity: 0; } 6.3%, 12.49% { opacity: 1; } 12.5%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-2 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-2 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-2 { 0%, 12.49% { opacity: 0; } 12.5%, 18.79% { opacity: 1; } 18.8%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-3 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-3 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-3 { 0%, 18.79% { opacity: 0; } 18.8%, 24.99% { opacity: 1; } 25.0%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-4 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-4 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-4 { 0%, 24.99% { opacity: 0; } 25.0%, 31.29% { opacity: 1; } 31.3%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-5 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-5 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-5 { 0%, 31.29% { opacity: 0; } 31.3%, 37.49% { opacity: 1; } 37.5%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-6 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-6 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-6 { 0%, 37.49% { opacity: 0; } 37.5%, 43.79% { opacity: 1; } 43.8%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-7 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-7 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-7 { 0%, 43.79% { opacity: 0; } 43.8%, 49.99% { opacity: 1; } 50.0%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-8 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-8 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-8 { 0%, 49.99% { opacity: 0; } 50.0%, 56.29% { opacity: 1; } 56.3%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-9 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-9 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-9 { 0%, 56.29% { opacity: 0; } 56.3%, 62.49% { opacity: 1; } 62.5%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-10 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-10 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-10 { 0%, 62.49% { opacity: 0; } 62.5%, 68.78999999999999% { opacity: 1; } 68.8%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-11 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-11 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-11 { 0%, 68.78999999999999% { opacity: 0; } 68.8%, 74.99% { opacity: 1; } 75.0%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-12 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-12 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-12 { 0%, 74.99% { opacity: 0; } 75.0%, 81.28999999999999% { opacity: 1; } 81.3%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-13 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-13 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-13 { 0%, 81.28999999999999% { opacity: 0; } 81.3%, 87.49% { opacity: 1; } 87.5%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-14 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-14 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-14 { 0%, 87.49% { opacity: 0; } 87.5%, 93.78999999999999% { opacity: 1; } 93.8%, 100% { opacity: 0; } }
+    #widget_639ad382-d7a4-43f5-ab59-24ed0fee6864 .frame-15 { opacity: 0; animation: show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-15 1.6s forwards; }
+    @keyframes show-widget_639ad382-d7a4-43f5-ab59-24ed0fee6864-15 { 0%, 93.78999999999999% { opacity: 0; } 93.8%, 100% { opacity: 1; } }
+  </style>
+  
+    <g class="frame-0">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   0</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   0</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   0</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0</tspan>                           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-1">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   3</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   0</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   0</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.1</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-2">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   7</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   0</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.2</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-3">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  10</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.3</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-4">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  14</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.5</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-5">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">  17</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.6</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-6">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">  20</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.7</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-7">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold">  24</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   3</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   1</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.8</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-8">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold">  27</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   3</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">0.9</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-9">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold">  31</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   4</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1</tspan>                           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-10">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold">  34</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   4</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1.1</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-11">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold">  37</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   4</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1.2</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-12">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold">  41</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   5</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">   2</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1.4</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-13">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold">  44</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   5</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   3</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1.5</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-14">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold">  48</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   6</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   3</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1.6</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-15">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                 <tspan fill="#3fb950" font-weight="bold">CODING VELOCITY</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Commits/month   </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold">  51</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">PRs/month       </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   6</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Issues/month    </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold">   3</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Avg. commits/day:</tspan> <tspan fill="#ffbd2e" font-weight="bold">1.7</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+
+</svg>
   
     </g>
   
 
-    <g transform="translate(368, 1114)" id="widget-widget_1794966093727_6">
-
-      
-      
-      <rect class="" x="0" y="0" width="392" height="160" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
-      
-      
-    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
-    <rect x="24" y="52" width="114.66666666666666" height="8" fill="#563d7c" rx="2" /><rect x="138.66666666666666" y="52" width="95.55555555555556" height="8" fill="#e34c26" rx="2" /><rect x="234.22222222222223" y="52" width="76.44444444444444" height="8" fill="#f1e05a" rx="2" /><rect x="310.6666666666667" y="52" width="38.22222222222222" height="8" fill="#239120" rx="2" /><rect x="348.8888888888889" y="52" width="19.11111111111111" height="8" fill="#c5ff4a" rx="2" />
-      <g transform="translate(24, 80)">
-        <circle cx="6" cy="-4" r="4" fill="#563d7c" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">CSS <tspan fill="#7a7a7a">33%</tspan></text>
-      </g>
-    
-      <g transform="translate(196, 80)">
-        <circle cx="6" cy="-4" r="4" fill="#e34c26" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">HTML <tspan fill="#7a7a7a">28%</tspan></text>
-      </g>
-    
-      <g transform="translate(24, 104)">
-        <circle cx="6" cy="-4" r="4" fill="#f1e05a" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">JavaScript <tspan fill="#7a7a7a">22%</tspan></text>
-      </g>
-    
-      <g transform="translate(196, 104)">
-        <circle cx="6" cy="-4" r="4" fill="#239120" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">C# <tspan fill="#7a7a7a">11%</tspan></text>
-      </g>
-    
-      <g transform="translate(24, 128)">
-        <circle cx="6" cy="-4" r="4" fill="#c5ff4a" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">EJS <tspan fill="#7a7a7a">6%</tspan></text>
-      </g>
-    
-  
-  
-    </g>
-  
-
-    <g transform="translate(32, 1394)" id="widget-widget_f579f055-f22e-4103-bce4-354ba9c54dba">
+    <g transform="translate(28, 1112)" id="widget-widget_f579f055-f22e-4103-bce4-354ba9c54dba">
 
       
       
@@ -881,6 +1027,358 @@
     <text x="15" y="432"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="449"><tspan fill="#30363d">│</tspan> <tspan fill="#e6edf3">@mrliedson</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#e6edf3">█</tspan>                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="466"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+
+</svg>
+  
+    </g>
+  
+
+    <g transform="translate(8, 1312)" id="widget-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1">
+
+      
+      
+      
+      
+      <svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1"
+  width="368"
+  height="368"
+  viewBox="0 0 400 296"
+  preserveAspectRatio="xMidYMid meet"
+  fill="none"
+>
+  <style>
+    
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 text {
+      font-family: 'JetBrains Mono', 'Courier New', Consolas, monospace;
+      font-size: 12px;
+      fill: #e5e5e5;
+      white-space: pre;
+    }
+  
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-0 { animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-0 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-0 { 0%, 6.29% { opacity: 1; } 6.3%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-1 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-1 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-1 { 0%, 6.29% { opacity: 0; } 6.3%, 12.49% { opacity: 1; } 12.5%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-2 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-2 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-2 { 0%, 12.49% { opacity: 0; } 12.5%, 18.79% { opacity: 1; } 18.8%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-3 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-3 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-3 { 0%, 18.79% { opacity: 0; } 18.8%, 24.99% { opacity: 1; } 25.0%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-4 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-4 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-4 { 0%, 24.99% { opacity: 0; } 25.0%, 31.29% { opacity: 1; } 31.3%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-5 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-5 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-5 { 0%, 31.29% { opacity: 0; } 31.3%, 37.49% { opacity: 1; } 37.5%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-6 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-6 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-6 { 0%, 37.49% { opacity: 0; } 37.5%, 43.79% { opacity: 1; } 43.8%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-7 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-7 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-7 { 0%, 43.79% { opacity: 0; } 43.8%, 49.99% { opacity: 1; } 50.0%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-8 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-8 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-8 { 0%, 49.99% { opacity: 0; } 50.0%, 56.29% { opacity: 1; } 56.3%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-9 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-9 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-9 { 0%, 56.29% { opacity: 0; } 56.3%, 62.49% { opacity: 1; } 62.5%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-10 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-10 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-10 { 0%, 62.49% { opacity: 0; } 62.5%, 68.78999999999999% { opacity: 1; } 68.8%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-11 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-11 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-11 { 0%, 68.78999999999999% { opacity: 0; } 68.8%, 74.99% { opacity: 1; } 75.0%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-12 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-12 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-12 { 0%, 74.99% { opacity: 0; } 75.0%, 81.28999999999999% { opacity: 1; } 81.3%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-13 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-13 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-13 { 0%, 81.28999999999999% { opacity: 0; } 81.3%, 87.49% { opacity: 1; } 87.5%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-14 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-14 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-14 { 0%, 87.49% { opacity: 0; } 87.5%, 93.78999999999999% { opacity: 1; } 93.8%, 100% { opacity: 0; } }
+    #widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1 .frame-15 { opacity: 0; animation: show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-15 1.6s forwards; }
+    @keyframes show-widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1-15 { 0%, 93.78999999999999% { opacity: 0; } 93.8%, 100% { opacity: 1; } }
+  </style>
+  
+    <g class="frame-0">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">0%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">0%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">0%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">0%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-1">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">1%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">2%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">2%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">1%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-2">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">3%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">5%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">4%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">2%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-3">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">4%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">7%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">6%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">3%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-4">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">5%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">9%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">8%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">4%</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-5">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">7%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">12%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">10%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">5%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-6">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">8%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">14%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">12%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">6%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-7">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">9%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">16%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">14%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">7%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-8">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">11%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">19%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">16%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">8%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-9">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">12%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">21%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">18%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">9%</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-10">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">13%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">23%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">20%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">10%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-11">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">15%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">26%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">22%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">11%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-12">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">16%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">28%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">24%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">12%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-13">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">17%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">30%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">26%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">13%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-14">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">19%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">33%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">28%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">14%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-15">
+    <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="109"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Over 65% of commits occur after 6 PM</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">></tspan> <tspan fill="#e5e5e5" font-weight="bold">Peak Coding Cadence: Thursdays</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="143"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Highest cumulative weekly commit throughp…</tspan>  <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="160"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">#</tspan> <tspan fill="#e5e5e5" font-weight="bold">Core Technology: CSS</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="177"><tspan fill="#30363d">│</tspan>    <tspan fill="#8b949e">Dominates the public open-source codebase</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">TEMPORAL PRODUCTIVITY</tspan>                         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Morning:   </tspan><tspan fill="#3fb950">20%</tspan>    <tspan fill="#8b949e">Afternoon: </tspan><tspan fill="#3fb950">35%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="245"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Evening:   </tspan><tspan fill="#3fb950">30%</tspan>    <tspan fill="#8b949e">Late Night:</tspan><tspan fill="#3fb950">15%</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="262"><tspan fill="#30363d">│</tspan>  <tspan fill="#8b949e">Peak Day:  </tspan><tspan fill="#ffbd2e">Thursday</tspan>  <tspan fill="#8b949e">Month:     </tspan><tspan fill="#ffbd2e">March</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="279"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
 
 </svg>

@@ -38,32 +38,6 @@
       "instanceId": "widget_1794966093727_1"
     },
     {
-      "widgetId": "repositories",
-      "name": "Repositories Widget",
-      "position": {
-        "x": 8,
-        "y": 1114
-      },
-      "size": {
-        "width": 368,
-        "height": 256
-      },
-      "config": {
-        "repoCardHeight": 66,
-        "repoViewMode": "list",
-        "maxRepos": 3,
-        "showRepoForks": true,
-        "showRepoUpdated": true,
-        "hideBorder": true,
-        "hideDecorations": true,
-        "showTitle": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1794966093727_2"
-    },
-    {
       "widgetId": "footer",
       "name": "Footer Widget",
       "position": {
@@ -83,60 +57,12 @@
       "instanceId": "widget_1794966093727_4"
     },
     {
-      "widgetId": "stats",
-      "name": "Stats Widget",
-      "position": {
-        "x": 376,
-        "y": 1274
-      },
-      "size": {
-        "width": 392,
-        "height": 120
-      },
-      "config": {
-        "hideMetrics": [
-          "forks",
-          "gists",
-          "repos"
-        ],
-        "hideDecorations": true,
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1794966093727_5"
-    },
-    {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 368,
-        "y": 1114
-      },
-      "size": {
-        "width": 392,
-        "height": 160
-      },
-      "config": {
-        "hideDecorations": true,
-        "hideBorder": true,
-        "hideLangsArr": [],
-        "hideLangs": "",
-        "showTitle": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7,
-      "instanceId": "widget_1794966093727_6"
-    },
-    {
       "instanceId": "widget_f579f055-f22e-4103-bce4-354ba9c54dba",
       "widgetId": "contribution-snake",
       "name": "Contribution-snake Widget",
       "position": {
-        "x": 32,
-        "y": 1394
+        "x": 28,
+        "y": 1112
       },
       "size": {
         "width": 736,
@@ -45666,6 +45592,54 @@
       "locked": false,
       "visible": true,
       "zIndex": 10
+    },
+    {
+      "instanceId": "widget_ae3d621e-ff4d-4887-8e65-2f216824ccb1",
+      "widgetId": "premium-ascii-insights",
+      "name": "Premium-ascii-insights Widget",
+      "position": {
+        "x": 8,
+        "y": 1312
+      },
+      "size": {
+        "width": 368,
+        "height": 368
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_639ad382-d7a4-43f5-ab59-24ed0fee6864",
+      "widgetId": "premium-ascii-coding-velocity",
+      "name": "Premium-ascii-coding-velocity Widget",
+      "position": {
+        "x": 352,
+        "y": 1232
+      },
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
@@ -45682,7 +45656,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794967921233_momn6",
-    "updatedAt": "2026-11-18T02:12:03.857Z"
+    "revision": "rev_1794968211764_96lbr",
+    "updatedAt": "2026-11-18T02:16:53.692Z"
   }
 }
